@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312578601531",
+    "project_id": "readwritepracdemo",
+    "storage_bucket": "readwritepracdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312578601531:android:e4c6ae2a1917dbd18b621e",
+        "android_client_info": {
+          "package_name": "com.example.readwriteprac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312578601531-rqmgspbg2udg5c6nbs1v31rciv7f7bpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwKgrlJUpOD9USmeia2BZJQ0o1x_eGuh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312578601531-rqmgspbg2udg5c6nbs1v31rciv7f7bpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

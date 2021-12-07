@@ -1,6 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:readwriteprac/noob.dart';
 import 'package:readwriteprac/read_user_data.dart';
 import 'package:readwriteprac/write_user_data.dart';
 
@@ -39,7 +40,7 @@ class _MyAppState extends State<MyApp> {
         label: Text('Add'),
         icon: Icon(Icons.add),
       ),
-      body: UserData(),
+      body: Noob(),
     );
   }
 }
